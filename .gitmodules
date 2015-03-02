@@ -1,0 +1,6 @@
+[submodule "deps/PHP-CPP"]
+	path = deps/PHP-CPP
+	url = https://github.com/CopernicaMarketingSoftware/PHP-CPP
+[submodule "deps/zxing-cpp"]
+	path = deps/zxing-cpp
+	url = https://github.com/glassechidna/zxing-cpp
